@@ -5,7 +5,7 @@ import { Login } from './pages/Login';
 
 export default function App() {
   return (
-    <div className="app">
+    <div>
       <Switch>
         <Route exact path="/" component={ Login } />
       </Switch>
