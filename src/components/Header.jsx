@@ -4,7 +4,7 @@ import React from 'react';
 function Header() {
   return (
     <header className="bg-[#3f0f40] flex fixed w-[100%] items-center justify-center py-[10px]">
-      <div className="flex items-center gap-2 ml-[215px]">
+      <div className="flex items-center gap-3 ml-[215px]">
         <Clock className="text-white ml-[40px]" size={25} />
         <div className="flex items-center gap-5 border border-slate-600 rounded-lg px-5 w-[500px]">
           <MagnifyingGlass className="text-white" size={20} />
