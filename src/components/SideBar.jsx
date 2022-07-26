@@ -34,9 +34,9 @@ function SideBar() {
       <SideBarOptions Icon={ FlagBanner } title="Saved Items" />
       <SideBarOptions Icon={ DotsThreeVertical } title="More" />
       <SideBarOptions Icon={ CaretUp } title="Show Less" />
-      <hr />
+      <hr className="my-[10px] border-[#8f8f90]" />
       <SideBarOptions Icon={ CaretDown } title="Channels" />
-      <hr />
+      <hr className="my-[10px] border-[#8f8f90]" />
       <SideBarOptions Icon={ Plus } addChannel title="Add Channel" />
     </div>
   );
