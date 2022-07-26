@@ -1,8 +1,10 @@
 import React from 'react';
-import Header from '../components/Header';
+import Body from '../components/Body';
 
 export function Login() {
   return (
-    <Header />
+    <>
+      <Body />
+    </>
   );
 }
