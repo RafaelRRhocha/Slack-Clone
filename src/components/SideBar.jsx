@@ -19,7 +19,7 @@ function SideBar() {
     <div className="pt-[15vh] flex flex-col">
       <div className="border-b border-[#8f8f90] flex justify-left items-center gap-3 p-[10px]">
         <div className="flex flex-col items-left">
-          <h1 className="text-white text-[20px]">diasodhas</h1>
+          <h1 className="text-white text-[20px]">user</h1>
           <div className="flex flex-row items-center gap-2">
             <Record size={15} />
             <p className="text-[14px]">ddsihdhiaosda</p>
