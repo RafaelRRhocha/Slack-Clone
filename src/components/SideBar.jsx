@@ -22,7 +22,7 @@ function SideBar() {
           <h1 className="text-white text-[20px]">user</h1>
           <div className="flex flex-row items-center gap-2">
             <Record size={15} />
-            <p className="text-[14px]">ddsihdhiaosda</p>
+            <p className="text-[14px]">user@users.com</p>
           </div>
         </div>
         <Pen className="p-1 text-[#1a1d21] text-[30px] cursor-pointer bg-white rounded-full hover:animate-pulse" />
